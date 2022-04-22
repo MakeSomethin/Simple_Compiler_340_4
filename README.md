@@ -1,4 +1,4 @@
-
+// README
 Running Project by Following Command:
 In order to run c++ code, you should 
 install GCC before running following 
